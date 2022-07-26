@@ -43,4 +43,4 @@ __POST__ __/api/v1/url__
 |expire_time|string|过期时间|
 
 
-> 如需其他功能可以给我留言
+> 如需其他功能可以给提issus
